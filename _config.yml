@@ -1,2 +1,10 @@
 theme: "so-simple-theme"
+title: 欢迎来到小游的博客！
+description: 这是我的个人博客
+author: 小游
 
+url: "https://chengnanflower.github.io/XiaoYou_Pages/"
+github_username: ChengNanFlower
+
+lang: zh
+timezone: "Asia/Shanghai"
